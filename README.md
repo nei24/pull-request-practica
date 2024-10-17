@@ -1,1 +1,2 @@
-### Esta es una sección informativa
+archivo de prueba 
+git es una herramienta
